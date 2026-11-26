@@ -1,5 +1,13 @@
 # EduPsych CRM — Installers | קבצי התקנה
 
+**▶ [Open the app](https://edupsych-crm.web.app)** · **📄 [Product page](https://scitedra-labs.web.app/en/edupsych-crm/)** · **⬇ [Download (Windows, Android)](https://github.com/Scitedra-Labs/edu-psych-crm-releases/releases/latest)**
+
+<div dir="rtl" lang="he">
+
+**▶ [כניסה לאפליקציה](https://edupsych-crm.web.app)** · **📄 [עמוד המוצר](https://scitedra-labs.web.app/edupsych-crm/)** · **⬇ [הורדה (Windows, אנדרואיד)](https://github.com/Scitedra-Labs/edu-psych-crm-releases/releases/latest)**
+
+</div>
+
 **English** · [עברית](#עברית)
 
 EduPsych CRM is a clinic-management system for educational psychologists: clients, sessions, documents and backups, with encrypted data kept on your own device. Available for Windows and Android.
